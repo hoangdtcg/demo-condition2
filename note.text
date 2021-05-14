@@ -1,0 +1,16 @@
+B1 - Vẽ giao diện HTML
+B2 - Click vào nút thì hiển thị số lên màn hình
+B3 - Tính toán phép tính
+B4 - Hiển thị kết quả
+B5 - Làm các chức năng khác
+    1. Xoá màn hình
+    2. Xoá từng ký tự
+B6 - Làm đẹp - css
+
+//------------------------------
+B1 - Hiển thị 1 ảnh
+B2 - Click chuyển sang ảnh khác
+B3 - Đến ảnh cuối thì ra ảnh đầu tiên
+
+B4 - Cho hiển thị ra 5 ảnh
+B5 - Check nếu 5 ảnh giống nhau thì win.
